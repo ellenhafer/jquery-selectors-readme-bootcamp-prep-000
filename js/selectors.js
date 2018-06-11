@@ -9,5 +9,13 @@ var lastImageSelector = function(){
 };
 
 var ninjaBabySelector = function(){
-  $('#baby-ninja')
+  $('#baby-ninja');
 };
+
+var divSelector = function(){
+  $('.pics');
+}
+
+var firstListItem = function(){
+  $('#pic-list li:first-child');
+}
