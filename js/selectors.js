@@ -1,4 +1,5 @@
 // declare your functions here...
-$('img');
-$('.pics');
-$('#baby-ninja');
+
+var paragraphSelector = function(){
+  
+};
